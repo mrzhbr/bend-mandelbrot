@@ -1,0 +1,8 @@
+.tools/
+build/
+output/
+*.ppm
+*.png
+__pycache__/
+.ruff_cache/
+.DS_Store
